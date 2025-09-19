@@ -9,7 +9,7 @@
     * {margin: 0; padding: 0; box-sizing: border-box;}
     body {font-family: Arial, sans-serif; line-height: 1.6;}
 
-    /* Navbar */
+    Navbar
     nav {
       position: fixed;
       top: 0; left: 0;
